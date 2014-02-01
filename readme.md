@@ -1,11 +1,13 @@
 ### install
 
-    gem install middleman
-    gem install middleman-slim
+    git clone ....
+    cd html-to-slim-practice
+    bundle install
+    rehash
 
 ### run
 
-    middleman server
+    bundle exec middleman server
 
 ### open
 
